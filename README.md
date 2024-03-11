@@ -1,13 +1,13 @@
 # Hello!
 
-I'm [Siddhartha Bhattacharya]. I'm currently conducting research in topics in [AI/ML] related to [Decentralized Federated Learning] and [Computer Vision]. I am passionate about creating intelligence that is secure, robust, and equitable.
+I'm <u>Siddhartha Bhattacharya</u>. I'm currently conducting research in topics in **AI/ML** related to **Decentralized Federated Learning** and **Computer Vision**. I am passionate about creating intelligence that is _secure, robust,_ and _equitable_.
 
 ## About Me
 
-- 🔭 I’m currently working on [Byzantine-Secure Decentralized Federated Learning ].
-- 🌱 I’m currently learning [computer vision for robotic systems, distributed systems].
-- 👯 I’m looking to collaborate on [creating ML/AI systems that are secure and are scalable].
-- ⚡ Fun fact: [I have never centered a <div>].
+- 🔭 I’m currently working on **Byzantine-Secure Decentralized Federated Learning**.
+- 🌱 I’m currently learning **computer vision for robotic systems, distributed systems**.
+- 👯 I’m looking to collaborate on creating _ML/AI_ systems that are secure and are _scalable_.
+- ⚡ Fun fact: I have never centered a <div>.
 
 ## Projects
 
