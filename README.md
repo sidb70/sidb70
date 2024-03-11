@@ -19,8 +19,8 @@ Here are some projects I'm proud of:
 
 ## Connect with Me
 
-- [Website]([link](https://sid-bhat.notion.site/Siddhartha-Bhattacharya-4e5d6782cc474f08842b3ea75c5ecefe?pvs=4))
-- [LinkedIn]([link](https://www.linkedin.com/in/sid-bhat/))
+- [Website](https://sid-bhat.notion.site/Siddhartha-Bhattacharya-4e5d6782cc474f08842b3ea75c5ecefe?pvs=4)
+- [LinkedIn](https://www.linkedin.com/in/sid-bhat/)
 
 ## Top Languages
 
