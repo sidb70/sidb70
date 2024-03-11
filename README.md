@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**sidb70/sidb70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Siddhartha Bhattacharya]. I'm currently conducting research in topics in [AI/ML] related to [Decentralized Federated Learning] and [Computer Vision]. I am passionate about creating intelligence that is secure, robust, and equitable.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Byzantine-Secure Decentralized Federated Learning ].
+- 🌱 I’m currently learning [computer vision for robotic systems, distributed systems].
+- 👯 I’m looking to collaborate on [creating ML/AI systems that are secure and are scalable].
+- ⚡ Fun fact: [I have never centered a <div>].
+
+## Projects
+
+Here are some projects I'm proud of:
+
+- [Byzantine-Secure Decentralized Federated Learning]([link](https://github.com/sidb70/DFL-Secure-Aggregation))
+- [Fed Up: A Decentralized Federated Learning Platform]([link](https://github.com/sidb70/SpartaHackFed))
+- [Frame Check: Fact Checker for YouTube]([link](https://github.com/sidb70/framecheck))
+
+## Connect with Me
+
+- [Website]([link](https://sid-bhat.notion.site/Siddhartha-Bhattacharya-4e5d6782cc474f08842b3ea75c5ecefe?pvs=4))
+- [LinkedIn]([link](https://www.linkedin.com/in/sid-bhat/))
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+Feel free to explore my repositories and don't hesitate to reach out!
+
