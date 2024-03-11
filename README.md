@@ -22,10 +22,6 @@ Here are some projects I'm proud of:
 - [Website]([link](https://sid-bhat.notion.site/Siddhartha-Bhattacharya-4e5d6782cc474f08842b3ea75c5ecefe?pvs=4))
 - [LinkedIn]([link](https://www.linkedin.com/in/sid-bhat/))
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidb70&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidb70&layout=compact)
