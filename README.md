@@ -5,8 +5,7 @@ I'm <u>Siddhartha Bhattacharya</u>. I'm currently conducting research in topics 
 ## About Me
 
 - 🔭 I’m currently working on **Byzantine-Secure Decentralized Federated Learning**.
-- 🌱 I’m currently learning about**distributed systems and computer vision for robotic systems**.
-- 👯 I’m looking to collaborate on creating _ML/AI_ systems that are secure and are _scalable_.
+- 🌱 I’m currently learning about **distributed systems and computer vision for robotic systems**.
 - ⚡ Fun fact: I have never centered a `<div>`.
 
 ## Projects
