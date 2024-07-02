@@ -4,7 +4,7 @@ I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning researc
 
 ## About Me
 
-- 🔭 I’m currently working on **[antilect: understanding the internal representations of large models]([link](https://github.com/sidb70/gmn))**.
+- 🔭 I’m currently working on **[antilect: understanding the internal representations of large models](https://github.com/sidb70/gmn)**.
 - 🌱 I’m currently learning about **graph neural networks, and representation learning**.
 - ⚡ Fun fact: I have never centered a `<div>`.
 
@@ -12,8 +12,8 @@ I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning researc
 
 Here are some projects I'm proud of:
 
-- [Byzantine-Secure Decentralized Federated Learning]([link](https://github.com/sidb70/DFL-Secure-Aggregation))
-- [Fed Up: A Decentralized Federated Learning Platform]([link](https://github.com/sidb70/SpartaHackFed))
+- [Byzantine-Secure Decentralized Federated Learning](https://github.com/sidb70/DFL-Secure-Aggregation)
+- [Fed Up: A Decentralized Federated Learning Platform](https://github.com/sidb70/SpartaHackFed)
 
 ## Connect with Me
 
