@@ -4,8 +4,8 @@ I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning researc
 
 ## About Me
 
-- 🔭 I’m currently working on **Byzantine-Secure Decentralized Federated Learning**.
-- 🌱 I’m currently learning about **distributed systems and computer vision for robotic systems**.
+- 🔭 I’m currently working on **[antilect: understanding the internal representations of large models]([link](https://github.com/sidb70/gmn))**.
+- 🌱 I’m currently learning about **graph neural networks, and representation learning**.
 - ⚡ Fun fact: I have never centered a `<div>`.
 
 ## Projects
