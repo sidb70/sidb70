@@ -1,6 +1,6 @@
 # Hello!
 
-I'm <u>Siddhartha Bhattacharya</u>. I'm currently conducting research in topics in **AI/ML** related to **Decentralized Federated Learning** and **Computer Vision**. I am passionate about creating intelligence that is _secure, robust,_ and _equitable_.
+I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning research in to **Graph Learning, Computer Vision, and Federated Learning**. I am passionate about creating intelligence that is _secure, scalable to large models,_ and _equitable_.
 
 ## About Me
 
@@ -14,7 +14,6 @@ Here are some projects I'm proud of:
 
 - [Byzantine-Secure Decentralized Federated Learning]([link](https://github.com/sidb70/DFL-Secure-Aggregation))
 - [Fed Up: A Decentralized Federated Learning Platform]([link](https://github.com/sidb70/SpartaHackFed))
-- [Frame Check: Fact Checker for YouTube]([link](https://github.com/sidb70/framecheck))
 
 ## Connect with Me
 
