@@ -1,6 +1,6 @@
 # Hello!
 
-I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning research in to **Graph Learning, Computer Vision, and Federated Learning**. I am passionate about creating intelligence that is _secure, scalable to large models,_ and _equitable_.
+I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning research in to **Graph Learning, Computer Vision, and Federated Learning**.
 
 ## About Me
 
