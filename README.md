@@ -16,8 +16,6 @@ Here are some projects I'm proud of:
 - [Fed Up: A Decentralized Federated Learning Platform](https://github.com/sidb70/SpartaHackFed)
 
 ## Connect with Me
-
-- [Website](https://sid-bhat.notion.site/Siddhartha-Bhattacharya-4e5d6782cc474f08842b3ea75c5ecefe?pvs=4)
 - [LinkedIn](https://www.linkedin.com/in/sid-bhat/)
 
 ## Top Languages
