@@ -11,7 +11,7 @@ I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning researc
 ## Projects
 
 Here are some projects I'm proud of:
-
+- [ClusterFL: Weight-Space Clustering for Personalized Federated Learning](https://github.com/sidb70/clusterFL)
 - [Byzantine-Secure Decentralized Federated Learning](https://github.com/sidb70/DFL-Secure-Aggregation)
 - [Fed Up: A Decentralized Federated Learning Platform](https://github.com/sidb70/SpartaHackFed)
 
