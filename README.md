@@ -1,6 +1,6 @@
 # Hello!
 
-I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning research in to **Graph Learning, Computer Vision, and Federated Learning**.
+I'm <u>Siddhartha Bhattacharya</u>. I'm currently doing machine learning research in to **Learned Optimization, Graph Learning, and applied Computer Vision**.
 
 ## About Me
 
